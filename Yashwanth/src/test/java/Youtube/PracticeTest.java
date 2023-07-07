@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Practice {
+public class PracticeTest {
 	@Test
 	public void frame() throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
