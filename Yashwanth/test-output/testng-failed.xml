@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Frame_Test.ActionClass3">
+      <class name="Youtube.TabSwitchTest">
         <methods>
-          <include name="learnmore"/>
-          <include name="close"/>
-          <include name="open"/>
+          <include name="test1"/>
         </methods>
-      </class> <!-- Frame_Test.ActionClass3 -->
+      </class> <!-- Youtube.TabSwitchTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
