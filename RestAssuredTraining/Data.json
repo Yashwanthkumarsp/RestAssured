@@ -1,0 +1,9 @@
+{
+      "name": "Salaar",
+      "salary": 26000,
+      "skills": [
+        "Java",
+        "Selenium",
+        "Postman"
+      ]
+}

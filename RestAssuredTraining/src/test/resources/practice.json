@@ -1,0 +1,74 @@
+{
+    "Employee": [
+        {
+            "name": "Chethan",
+            "salary": 25000,
+            "skills": [
+                "Ruby",
+                "Selenium",
+                "Postman"
+            ],
+            "id": 1
+        },
+        {
+            "id": 2,
+            "name": "Yashwanth",
+            "salary": 26000,
+            "skills": [
+                "Java",
+                "Selenium",
+                "Postman"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Pratheek",
+            "salary": 27000,
+            "skills": [
+                "Python",
+                "Selenium",
+                "Postman"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Pallavi",
+            "salary": 25000,
+            "skills": [
+                "C++",
+                "Selenium",
+                "Postman"
+            ]
+        },
+        {
+            "skills": [
+                "Javascript",
+                "Playright",
+                "Postman"
+            ],
+            "name": "Karthi",
+            "salary": 25000,
+            "id": 6
+        },
+        {
+            "name": "Puni",
+            "salary": "25000",
+            "skills": [
+                "Javascript",
+                "Playright",
+                "Postman"
+            ],
+            "id": 7
+        },
+        {
+            "skills": [
+                "Java",
+                "Selenium",
+                "Postman"
+            ],
+            "name": "Salaar",
+            "salary": 26000,
+            "id": 8
+        }
+    ]
+}
